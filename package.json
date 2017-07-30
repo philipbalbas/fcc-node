@@ -1,0 +1,23 @@
+{
+  "name": "fcc-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.15.3",
+    "hbs": "^4.0.1",
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.11.4",
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
